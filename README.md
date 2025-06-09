@@ -52,9 +52,13 @@ This agent:
 
 ## 🚀 Getting Started
 
+To run the Delta-Neutral Yield Agent (DNYA) locally:
+
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/delta-neutral-agent.git
-cd delta-neutral-agent
+git clone https://github.com/TeeraphatPhungamkuew/DNYA.git
+cd DNYA
 
 # Install dependencies (Python, Brownie, etc.)
 pip install -r requirements.txt
